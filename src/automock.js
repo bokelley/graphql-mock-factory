@@ -1,4 +1,4 @@
-import casual from 'casual';
+import casual from 'casual-browserify';
 import { GraphQLEnumType, getNullableType } from 'graphql';
 import { automockLists } from './list';
 import { automockRelay } from './relay';

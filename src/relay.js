@@ -1,5 +1,5 @@
 // @flow
-import casual from 'casual';
+import casual from 'casual-browserify';
 import { mockList } from './list';
 import { GraphQLObjectType } from 'graphql';
 
